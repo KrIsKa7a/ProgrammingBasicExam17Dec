@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\bin\Debug\04.WorkOut.exe.config
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\bin\Debug\04.WorkOut.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\bin\Debug\04.WorkOut.pdb
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\obj\Debug\04.WorkOut.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\obj\Debug\04.WorkOut.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\04.WorkOut\obj\Debug\04.WorkOut.pdb

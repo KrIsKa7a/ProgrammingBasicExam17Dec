@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\bin\Debug\01.IvanoviFamily.exe.config
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\bin\Debug\01.IvanoviFamily.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\bin\Debug\01.IvanoviFamily.pdb
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\obj\Debug\01.IvanoviFamily.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\obj\Debug\01.IvanoviFamily.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\obj\Debug\01.IvanoviFamily.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\01.IvanoviFamily\obj\Debug\01.IvanoviFamily.pdb

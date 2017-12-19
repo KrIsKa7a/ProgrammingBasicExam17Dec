@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.exe.config
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\bin\Debug\05.ChristmasSock.pdb
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\05.ChristmasSock\obj\Debug\05.ChristmasSock.pdb

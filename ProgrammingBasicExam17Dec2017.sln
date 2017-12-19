@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.IvanoviFamily", "01.IvanoviFamily\01.IvanoviFamily.csproj", "{F61D689D-BC91-4443-AB53-7E4774BAC8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NewYearsEveParty", "02.NewYearsEveParty\02.NewYearsEveParty.csproj", "{E867F92A-9B5A-4586-9910-099EE38FA255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.IvanoviHoliday", "03.IvanoviHoliday\03.IvanoviHoliday.csproj", "{9297F515-2DD3-47CD-AFDC-9142E2C16AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WorkOut", "04.WorkOut\04.WorkOut.csproj", "{EB7E86ED-039D-4188-A845-43864325753B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ChristmasSock", "05.ChristmasSock\05.ChristmasSock.csproj", "{08B98DE1-8A78-4106-AF47-C754DDCF3980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. MultiplyTable", "06. MultiplyTable\06. MultiplyTable.csproj", "{1B67C887-4F16-4615-B26C-8FA9B9383932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F61D689D-BC91-4443-AB53-7E4774BAC8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61D689D-BC91-4443-AB53-7E4774BAC8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61D689D-BC91-4443-AB53-7E4774BAC8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61D689D-BC91-4443-AB53-7E4774BAC8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E867F92A-9B5A-4586-9910-099EE38FA255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E867F92A-9B5A-4586-9910-099EE38FA255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E867F92A-9B5A-4586-9910-099EE38FA255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E867F92A-9B5A-4586-9910-099EE38FA255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9297F515-2DD3-47CD-AFDC-9142E2C16AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9297F515-2DD3-47CD-AFDC-9142E2C16AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9297F515-2DD3-47CD-AFDC-9142E2C16AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9297F515-2DD3-47CD-AFDC-9142E2C16AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7E86ED-039D-4188-A845-43864325753B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7E86ED-039D-4188-A845-43864325753B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7E86ED-039D-4188-A845-43864325753B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7E86ED-039D-4188-A845-43864325753B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B98DE1-8A78-4106-AF47-C754DDCF3980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B98DE1-8A78-4106-AF47-C754DDCF3980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B98DE1-8A78-4106-AF47-C754DDCF3980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B98DE1-8A78-4106-AF47-C754DDCF3980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B67C887-4F16-4615-B26C-8FA9B9383932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B67C887-4F16-4615-B26C-8FA9B9383932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B67C887-4F16-4615-B26C-8FA9B9383932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B67C887-4F16-4615-B26C-8FA9B9383932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72525BD2-FB54-4067-83A3-CBEB3DF84DCD}
+	EndGlobalSection
+EndGlobal

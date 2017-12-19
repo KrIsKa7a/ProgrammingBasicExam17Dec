@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\bin\Debug\02.NewYearsEveParty.exe.config
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\bin\Debug\02.NewYearsEveParty.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\bin\Debug\02.NewYearsEveParty.pdb
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\obj\Debug\02.NewYearsEveParty.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\obj\Debug\02.NewYearsEveParty.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\02.NewYearsEveParty\obj\Debug\02.NewYearsEveParty.pdb

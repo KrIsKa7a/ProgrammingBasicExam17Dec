@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\bin\Debug\_06.MultiplyTable.exe.config
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\bin\Debug\_06.MultiplyTable.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\bin\Debug\_06.MultiplyTable.pdb
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\obj\Debug\06. MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\obj\Debug\_06.MultiplyTable.exe
+C:\Users\Home\source\repos\ProgrammingBasicExam17Dec2017\06. MultiplyTable\obj\Debug\_06.MultiplyTable.pdb
